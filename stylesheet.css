@@ -306,6 +306,12 @@ body{
     background: linear-gradient(lightblue,#2C2C34);
 }
 
+backgroundRep{
+	background-image: url("../images/logos/try.png");
+	background-repeat: repeat-y;
+}
+
+
 #buttonpageBody{
     margin:0;
     padding:0;
